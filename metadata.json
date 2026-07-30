@@ -1,0 +1,6 @@
+{
+  "name": "AI Text-to-Speech Studio Pro",
+  "description": "Web app chuyển văn bản thành giọng nói AI chuyên nghiệp với Gemini TTS, đa ngôn ngữ, tùy chỉnh giọng đọc, làm sạch văn bản và xuất audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
