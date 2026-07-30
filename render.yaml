@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: test-to-speed
+    name: test-to-speech
     runtime: node
 
     # Gói miễn phí (có thể đổi thành starter hoặc standard nếu cần)
